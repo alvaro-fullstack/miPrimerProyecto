@@ -1,0 +1,2 @@
+Conocimientos previos:
+1º Conocimientos en Angular.
