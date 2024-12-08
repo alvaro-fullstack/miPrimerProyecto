@@ -1,2 +1,3 @@
 Conocimientos previos:
 1º Conocimientos en Angular.
+2º Conocimientos en JavaScript.
