@@ -1,4 +1,5 @@
 Conocimientos previos:
 1º Conocimientos en Angular.
 2º Conocimientos en JavaScript.
-2º Python.
+3º Python.
+4º Html5 y css3
